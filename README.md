@@ -1,1 +1,1 @@
-TGPL exercises and examples
+TGPL exercises and examples for personal review.
